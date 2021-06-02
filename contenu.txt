@@ -1,0 +1,7 @@
+le contenu de la page web:
+
+* Accuiel
+* A propos
+* Tutorial
+* Qui somme nous?
+* Contacter nous.
